@@ -1,0 +1,18 @@
+#card {
+  background: white;
+  height: 807px;
+  width: 413px;
+  color: black;
+  padding: 40px;
+  .feature-item {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px;
+  }
+}
+
+h1#price-card-title {
+  font-size: 48px;
+  font-weight: 600;
+  text-align: center;
+}

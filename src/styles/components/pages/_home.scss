@@ -1,0 +1,217 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  color: #172342;
+}
+
+//utilites
+.mt-20 {
+  margin-top: 1.25rem;
+}
+.mt-30 {
+  margin-top: 1.875rem;
+}
+.mt-40 {
+  margin-top: 2.5rem;
+}
+.mt-50 {
+  margin-top: 3.125rem;
+}
+.mt-60 {
+  margin-top: 3.75rem;
+}
+.mt-70 {
+  margin-top: 4.375rem;
+}
+
+.mb-20 {
+  margin-bottom: 1.25rem;
+}
+.mb-30 {
+  margin-bottom: 1.875rem;
+}
+.mb-40 {
+  margin-bottom: 2.5rem;
+}
+.mb-50 {
+  margin-bottom: 3.125rem;
+}
+.mb-60 {
+  margin-bottom: 3.75rem;
+}
+.mb-70 {
+  margin-bottom: 4.375rem;
+}
+//end of utilities
+#top-section {
+  position: relative;
+  margin-left: 80px;
+  margin-right: 80px;
+  #welcome-text {
+    bottom: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 64px;
+    font-weight: 800;
+    margin-block-end: unset;
+    margin-right: 30px;
+    line-height: 1.25;
+    letter-spacing: 0.02em;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: right;
+  }
+  #text-desc1 {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: left;
+  }
+
+  #text-desc2 {
+    max-width: 305px;
+    font-size: 20px;
+    font-weight: 400;
+    float: right;
+  }
+  .top-banner {
+    float: right;
+  }
+  .mini-logo {
+    padding-right: 130px;
+  }
+  .learn-more-btn {
+    background: #fb9b2a;
+    color: #ffffff;
+    width: 305px;
+    height: 67px;
+  }
+  .top-sub-section {
+    margin-top: 100px;
+    margin-bottom: 14px;
+  }
+}
+
+//second section
+#second-section {
+  background: rgba(255, 160, 48, 0.15);
+  width: 100%;
+  height: auto;
+  padding: 72px 80px 0px 80px;
+  #reason-container {
+    margin-bottom: 84px;
+    #number-reason {
+      font-weight: bold;
+      font-size: 20px;
+    }
+    #title-reason {
+      font-weight: bold;
+      font-size: 24px;
+    }
+    #desc-reason {
+      font-weight: normal;
+      font-size: 20px;
+      text-align: justify;
+    }
+  }
+}
+//end of second section
+
+//third section
+#third-section {
+  padding: 100px 0 60px 150px;
+}
+#contact-us-box {
+  width: 593px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+#phone-contact {
+  float: left;
+}
+#mail-contact {
+  float: right;
+}
+.wrapper-desc-product {
+  margin: auto auto auto auto;
+  padding: 80px 0 80px 0;
+  width: 32.625rem;
+  position: relative;
+  right: 60px;
+}
+.desc-text {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 170%;
+  text-align: left;
+}
+#title-text,
+#text-desc3 {
+  font-weight: 800;
+  font-size: 54px;
+  &-sub {
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 316px;
+    margin-top: 24px;
+  }
+}
+.align-right {
+  text-align: end;
+}
+.whatsapp-btn {
+  background: #25d366;
+  color: #ffffff;
+  width: 267px;
+  height: 67px;
+}
+//end of 3rd section
+
+//price section
+#price-section {
+  height: 684px;
+  background: #6c7cda;
+  padding: 80px;
+  color: white;
+  .price-desc {
+    width: 522px;
+    margin-top: 40px;
+  }
+  .nav-price {
+    background: white;
+    width: fit-content;
+    padding: 8px;
+    margin: auto;
+    margin-top: 68px;
+  }
+  .card-container {
+    margin: auto;
+  }
+}
+#plain-section {
+  background: #f1f1f1;
+  height: 874px;
+}
+.paket-tite {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 90px;
+  text-align: center;
+}
+
+//OVERRIDE FROM BOOTSTRAP
+.row {
+  margin: unset;
+}
+.nav-pills {
+  .nav-link {
+    color: #fb9b2a;
+    &.active {
+      color: #ffffff;
+      background-color: #fb9b2a;
+    }
+  }
+}

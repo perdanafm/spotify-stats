@@ -1,0 +1,208 @@
+{
+  "translations": {
+    "contact": {
+      "formContact": {
+        "intro": {
+          "times": "24 jam",
+          "help": "kita dapat menolong kamu",
+          "findSolution": "untuk menemukan solusi yang tepat"
+        },
+        "introDescription": "Kami selalu ada untuk membantu terlepas dari jumlah pertanyaan yang ada dengan menghubungkan Anda dengan sumber daya yang bermanfaat.",
+        "emailAddress": "Email",
+        "name": "Nama",
+        "companyName": "Nama Perusahaan",
+        "phoneNumber": "Nomor Telpon",
+        "subject": "Bagaimana Kamu Menemukan Kita",
+        "description": "Beri Tahu Kami Apa yang Anda Butuhkan",
+        "detailInformation": "Harap masukkan detail permintaan Anda. Seorang anggota staf pendukung kami akan merespons sesegera mungkin.",
+        "buttonSubmit": "KIRIMKAN"
+      },
+      "contactDetail": {
+        "title": "Detail Kontak",
+        "officeAddress": "Menara Bandung Digital Valley, Jl. Gegerkalong Hilir No.47, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",
+        "officeTelephone": "021-380888",
+        "officeEmailAddress": "contact@umeetme.id"
+      },
+      "notification": "Terima kasih! pesan Anda telah dikirim."
+    },
+    "register": {
+      "agreement": "Dengan melanjutkan, Anda telah setuju dengan",
+      "back": "Kembali",
+      "boxBelow": "kotak di bawah",
+      "confirmCode": "Konfirmasi kode",
+      "enterOtp": "Masukkan kode OTP",
+      "haveAccount": "Sudah memiliki akun?",
+      "notReceiveCode": "Belum menerima kode?",
+      "numberPhone": {
+        "isEmpty": "Nomor telepon tidak boleh kosong",
+        "notValid": "Silakan masukkan nomor telepon yang benar",
+        "title": "Nomor Telepon"
+      },
+      "formData": {
+        "emailNotValid": "Email tidak benar",
+        "emailRequired": "Email tidak boleh kosong",
+        "nameRequired": "Nama Lengkap tidak boleh kosong",
+        "passwordMin": "Kata sandi minimal 8 karakter",
+        "passwordRequired": "Kata sandi tidak boleh kosong",
+        "confPassRequired": "Kata sandi tidak boleh kosong",
+        "passNotMatch": "Kata sandi tidak cocok",
+        "completeText": "Lengkapi Data Anda",
+        "nameLabel": "Nama",
+        "emailLabel": "Email",
+        "passLabel": "Kata sandi",
+        "confPassLabel": "Ketik Ulang Kata sandi",
+        "phoneLabel": "Nomor Telepon",
+        "submitText": "Kirim"
+      },
+      "privacyPolicy": "Kebijakan Privasi",
+      "resend": "Kirim Ulang",
+      "title": "Daftar",
+      "signIn": "Masuk",
+      "writeOtp": "Tulis kode OTP yang dikirimkan ke ponsel Anda"
+    },
+    "login": {
+      "button": "MASUK",
+      "forgotPassword": "Lupa kata sandi?",
+      "title": "Masuk",
+      "register": "Daftar",
+      "registerHint": "Belum punya akun?",
+      "numberPhone": {
+        "isEmpty": "Nomor telepon tidak boleh kosong",
+        "notValid": "Silakan masukkan nomor telepon yang benar",
+        "title": "Nomor Telepon"
+      },
+      "password": {
+        "isEmpty": "Kata Sandi tidak boleh kosong",
+        "title": "Kata Sandi"
+      }
+    },
+    "forgotPassword": {
+      "formForgot": {
+        "title": "Apakah Anda lupa kata sandi?",
+        "title2": "Masukkan nomor telepon yang Anda gunakan untuk akun Anda di bawah ini",
+        "phoneNumber": "Nomor Telephone",
+        "forgetPassword": "Lupa Kata Sandi",
+        "backToLogin": "Kembali Masuk"
+      },
+      "formReset": {
+        "resetPassword": "Atur Ulang Kata Sandi",
+        "newPassword": "Kata sandi Baru",
+        "confirmPassword": "Ulangi Kata sandi",
+        "maxPassword": "Kata Sandi harus memiliki kriteria minimal 6 karakter maksimum 50 karakter.",
+        "submit": "KIRIM"
+      },
+      "formOTP": {
+        "otpCode": "Masukkan kode OTP",
+        "otpWrite": "Tulis kode OTP yang sudah kami kirim ke ponsel Anda di bawah ini",
+        "confirmCode": "KONFIRMASI KODE",
+        "back": "KEMBALI",
+        "receiveEmail": "Belum menerima kode?",
+        "resend": "Kirim ulang"
+      }
+    },
+    "footer": {
+      "formRegister": {
+        "titleStart": "Mulai UMeetMe sekarang!",
+        "titleRegister": "DAFTAR, GRATIS"
+      },
+      "footerInfo": {
+        "description": "UMeetMe adalah platform komunikasi digital yang menyediakan solusi produk digital untuk membantu perusahaan terhubung dengan pelanggan mereka.",
+        "downloadApp": "Unduh aplikasi",
+        "quicklinks": "Tautan Langsung",
+        "home": "Beranda",
+        "about": "Tentang",
+        "helloUMeetMe": "Hello UMeetMe",
+        "education": "Pendidikan",
+        "business": "Bisnis",
+        "contactUs": "Hubungi Kita",
+        "officeAddress": "Menara Bandung Digital Valley, Jl. Gegerkalong Hilir No.47, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",
+        "officeTelephone": "021-380888",
+        "officeEmailAddress": "contact@umeetme.id",
+        "socialMedia": "Media Sosial"
+      },
+      "footerGradien": {
+        "copyright": "Hak Cipta 2020 PT Telekomunikasi Indonesia (Persero) Tbk. Semua Hak Dilindungi Undang-Undang.",
+        "faq": "FAQ (Tanya Jawab)",
+        "termsAndConditions": "Syarat dan Kondisi",
+        "privacyPolicy": "Kebijakan Privasi"
+      }
+    },
+    "businessPage": {
+      "header": "UMeetMe for Business",
+      "subHeader": "Konferensi video dengan layanan terbaik yang dapat mengoptimalkan waktu kerja Anda dengan memanfaatkan sumber daya dan perangkat. Rapat dan diskusi dapat diadakan kapan saja, di mana saja, dengan maksimum 50 peserta.",
+      "specialFeature": "Special Features UMeetMe for education",
+      "detailHeader1": "Kelola Peserta",
+      "detailSubHeader": "Host memiliki kendali untuk peserta saat meeting.",
+      "detailHeader2": "Siaran Langsung",
+      "detailSubHeader2": "Lakukan siaran langsung secara gratis dan mudah.",
+      "detailHeader3": "Berbagi video Youtube",
+      "detailSubHeader3": "Bagikan dan saksikan bersama video dari YouTube saat meeting berlangsung.",
+      "aboutHeader1": "Berkumpul Secara Virtual",
+      "aboutSubHeader1": "Jarak dan waktu, bukanlah masalah, karena Anda tetap dapat berkumpul, berdiskusi dan berbagi informasi apapun dengan staff Anda atau siapapun, di seluruh dunia kapan saja.",
+      "aboutHeader2": "Penyebaran informasi Cepat",
+      "aboutSubHeader2": "Anda dapat melaporkan informasi dengan cepat kepada semua orang ketika ada keadaan darurat, menggunakan perangkat apa pun dengan menggunakan fitur live streaming.",
+      "aboutHeader3": "Megoptimalkan waktu dan biaya",
+      "aboutSubHeader3": "Kegiatan seperti observasi, recruiting, training, dan lainnya dapat dilakukan secara online dengan mengurangi biaya perjalanan dan mengoptimalkan waktu."
+    },
+    "eduPage": {
+      "header": "UMeetMe for Education",
+      "subHeader": "Solusi konferensi video yang didedikasikan untuk sekolah & universitas, dengan tujuan mendukung kegiatan pendidikan formal dan informal seperti kelas online, administrasi, dan lainnya. ",
+      "specialFeature": "Special Features UMeetMe for education",
+      "detailHeader1": "Papan tulis",
+      "detailSubHeader1": "Gambarkan materi pelajaran lebih mudah melalui visual.",
+      "detailHeader2": "Kolaborasi dokumen",
+      "detailSubHeader2": "Lakukan kolaborasi dokumen dengan peserta lainnya saat kelas online berlangsung.",
+      "detailHeader3": "Daftar hadir",
+      "detailSubHeader3": "Daftar kehadiran siswa dapat dilakukan langsung menggunakan sistem.",
+      "aboutHeader1": "Belajar dengan kelas online",
+      "aboutSubHeader1": "Kelas online menjadi lebih bebas dan menyenangkan dengan durasi tak terbatas dan fitur berbagi layar, yang dapat mendukung penyampaian materi pembelajaran selama kelas online atau aktivitas virtual lainnya.",
+      "aboutHeader2": "Mendukung program LMS untuk universitas",
+      "aboutSubHeader2": "Kami menyediakan kolaborasi API untuk mendukung efektivitas kegiatan LMS (Learning Management Systems) di Indonesia.",
+      "aboutHeader3": "Menyediakan Media Pembelajaran Virtual",
+      "aboutSubHeader3": "Untuk berpartisipasi dalam mendukung dan mengembangkan program \"Go Digital\" untuk pendidikan di Indonesia. Kami menyediakan kelas media online, pendidikan formal dan informal secara gratis."
+    },
+    "carousel": {
+      "headerEdu": "Cara memulai Education",
+      "headerBusiness": "Cara memulai Business",
+      "subHeader": "Mari kita mulai cara mudah untuk terhubung dengan siapa pun.",
+      "howToStart": "Cara Penggunaan ",
+      "step1Title": "1. Buat Room",
+      "step1Content": "Buat nama room sesuai yang Anda inginkan",
+      "step2Title": "2. Bagikan Link",
+      "step2Content": "Bagikan link meeting untuk mengundang peserta lainnya bergabung",
+      "step3Title": "3. Mulai Meeting",
+      "step3Content": "Nikmati konferensi video Anda. "
+    },
+    "footer1": {
+      "startUMeetMe": "Start UMeetMe now!",
+      "register": "REGISTER, IT'S FREE",
+      "header": "Konferensi video dengan layanan yang lebih tinggi. Mengoptimalkan waktu kerja dengan memanfaatkan sumber daya dan perangkat keras.Rapat dan diskusi dapat diadakan hingga batas 50 peserta, kapanpun, dimanapun."
+    },
+    "homePage": {
+      "banner": {
+        "title": "Konferensi Video <br/> <span>Tanpa Batas </span> kapanpun <br/> dan dimana saja. ",
+        "description": "UMeetMe merupakan layanan video-conference yang hadir memberikan solusi digital yang mudah, cepat dan nyaman dalam berkomunikasi."
+      },
+      "descProduct": {
+        "title": "Personalisasi komunikasi Anda <br/> dengan siapapun.",
+        "descProductOne": {
+          "title": "Mudah",
+          "desc": "Menyediakan layanan konferensi video untuk Anda berkomunikasi dengan kolega, teman, dan keluarga dengan mudah melalui perangkat yang Anda miliki kapan saja dan di mana saja."
+        },
+        "descProductTwo": {
+          "title": "Tak Terbatas",
+          "desc": "Memberikan komunikasi tanpa batas."
+        },
+        "descProductThree": {
+          "title": "Gratis",
+          "desc": "Membantu Anda untuk tetap terhubung dan menjadi produktif secara gratis."
+        }
+      }
+    },
+    "joinMeeting": {
+      "title": "Gabung Meeting",
+      "video": "Tampilkan Video",
+      "audio": "Hidupkan Audio"
+    }
+  }
+}

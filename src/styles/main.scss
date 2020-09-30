@@ -1,0 +1,18 @@
+/* BOOTSTRAP BEGIN */
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/react-toastify/scss/main';
+//FONT
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+//PAGE
+@import './components/pages/404';
+@import './components/pages/todo';
+@import './components/pages/home';
+@import './components/pages/template1';
+
+//ELEMENTS
+@import './components/elements/topbar';
+@import './components/elements/topbarundangan';
+@import './components/elements/button';
+@import './components/elements/card';
+@import './components/elements/footer';

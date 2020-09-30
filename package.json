@@ -1,0 +1,62 @@
+{
+  "name": "webpage-base",
+  "version": "1.0.0",
+  "description": "UMeetMe webpage base",
+  "main": "index.js",
+  "scripts": {
+    "test:cover": "npm run test -- --coverage ",
+    "dev": "next",
+    "build": "next build ./src ",
+    "export": "next export ./src",
+    "start": "next start ./src",
+    "start:development": "npm run build && npm run start",
+    "start:staging": "npm run build && npm run start",
+    "start:production": "npm run build && npm run start",
+    "lint": "esw src/components --color",
+    "lint:watch": "npm run lint -- -w"
+  },
+  "keywords": [
+    "umeetme"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "classnames": "^2.2.6",
+    "firebase": "^7.19.1",
+    "formik": "^2.1.5",
+    "html-react-parser": "^0.13.0",
+    "i18next": "^19.6.3",
+    "i18next-browser-languagedetector": "^5.0.0",
+    "i18next-xhr-backend": "^3.2.2",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "next": "^9.4.4",
+    "next-images": "^1.4.0",
+    "next-redux-wrapper": "^6.0.2",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.2.2",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-images": "^1.1.7",
+    "react-photo-gallery": "^8.0.0",
+    "react-toastify": "^6.0.8",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.5.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-watch": "^7.0.0",
+    "react-redux": "^7.2.0",
+    "redux-devtools-extension": "^2.13.8"
+  }
+}

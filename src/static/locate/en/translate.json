@@ -1,0 +1,208 @@
+{
+  "translations": {
+    "contact": {
+      "formContact": {
+        "intro": {
+          "times": "24 hours",
+          "help": "we can help you",
+          "findSolution": "to find the right solution"
+        },
+        "introDescription": "We always there to help regardless of the number of queries at hand by connecting you with helpful resources.",
+        "emailAddress": "Email",
+        "name": "Name",
+        "companyName": "Company Name",
+        "phoneNumber": "Phone Number",
+        "subject": "Select Subject",
+        "description": "Tell Us What You Need",
+        "detailInformation": "Please enter the details of your request. A member of our support staff will respond as soon as possible.",
+        "buttonSubmit": "SUBMIT"
+      },
+      "contactDetail": {
+        "title": "Contact Detail",
+        "officeAddress": "Menara Bandung Digital Valley, Jl. Gegerkalong Hilir No.47, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",
+        "officeTelephone": "021-380888",
+        "officeEmailAddress": "contact@umeetme.id"
+      },
+      "notification": "Thank you! your message has been sent."
+    },
+    "register": {
+      "agreement": "By continuing, you are indicating that you agree to the",
+      "back": "back",
+      "boxBelow": "box bellow",
+      "confirmCode": "confirm code",
+      "enterOtp": "Enter OTP code",
+      "haveAccount": "Already have an account?",
+      "notReceiveCode": "Didn't receive the code?",
+      "numberPhone": {
+        "isEmpty": "Phone number should not be empty",
+        "notValid": "Please input a valid number phone",
+        "title": "No. Phone"
+      },
+      "formData": {
+        "emailNotValid": "Your email is not valid",
+        "emailRequired": "Email should not be empty",
+        "nameRequired": "Full Name should not be empty",
+        "passwordMin": "Passwod minimum 8 character",
+        "passwordRequired": "Password should not be empty",
+        "confPassRequired": "Retype password should not be empty",
+        "passNotMatch": "Password does not match",
+        "completeText": "Complete your Data",
+        "nameLabel": "Name",
+        "emailLabel": "Email",
+        "passLabel": "Password",
+        "confPassLabel": "Retype Password",
+        "phoneLabel": "Phone Number",
+        "submitText": "Submit"
+      },
+      "privacyPolicy": "Privacy Policy",
+      "resend": "Resend",
+      "title": "Register",
+      "signIn": "Login",
+      "writeOtp": "Write the OTP code that came to your phone in the"
+    },
+    "login": {
+      "button": "LOGIN",
+      "forgotPassword": "Forgot Password?",
+      "title": "Login",
+      "register": "Register",
+      "registerHint": "Doesn’t an account yet?",
+      "numberPhone": {
+        "isEmpty": "Phone number should not be empty",
+        "notValid": "Please input a valid number phone",
+        "title": "Phone Number"
+      },
+      "password": {
+        "isEmpty": "Password should not be empty",
+        "title": "Password"
+      }
+    },
+    "forgotPassword": {
+      "formForgot": {
+        "title": "Do you forget your password?",
+        "title2": "Enter your phone number you're using for your account below",
+        "phoneNumber": "Phone Number",
+        "forgetPassword": "FORGOT PASSWORD",
+        "backToLogin": "Back to Login"
+      },
+      "formReset": {
+        "resetPassword": "Reset your password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm New Password",
+        "maxPassword": "Password must be contain at least 6 characters and 50 characters maximum.",
+        "submit": "SUBMIT"
+      },
+      "formOTP": {
+        "otpCode": "Enter OTP code",
+        "otpWrite": "Write the OTP code that came to your phone in the box below.",
+        "confirmCode": "CONFIRM CODE",
+        "back": "BACK",
+        "receiveEmail": "Didn't receive the code ?",
+        "resend": "Resend"
+      }
+    },
+    "footer": {
+      "formRegister": {
+        "titleStart": "Start UMeetMe now!",
+        "titleRegister": "REGISTER, IT'S FREE"
+      },
+      "footerInfo": {
+        "description": "UMeetMe is a digital communication platform that provides digital product solutions to help companies connect with their customers.",
+        "downloadApp": "Download app",
+        "quicklinks": "Quicklinks",
+        "home": "Home",
+        "about": "About",
+        "helloUMeetMe": "Hello UMeetMe",
+        "education": "Education",
+        "business": "Business",
+        "contactUs": "Contact Us",
+        "officeAddress": "Menara Bandung Digital Valley, Jl. Gegerkalong Hilir No.47, Sukarasa, Kec. Sukasari, Kota Bandung, Jawa Barat 40152",
+        "officeTelephone": "021-380888",
+        "officeEmailAddress": "contact@umeetme.id",
+        "socialMedia": "Social Media"
+      },
+      "footerGradien": {
+        "copyright": "Copyright 2020 PT Telekomunikasi Indonesia (Persero) Tbk All Right Reserved.",
+        "faq": "FAQ",
+        "termsAndConditions": "Terms and Conditions",
+        "privacyPolicy": "Privacy Police"
+      }
+    },
+    "businessPage": {
+      "header": "UMeetMe for Business",
+      "subHeader": "Video-conferencing with higher service. Optimizing work time by utilizing resources and hardware. Meeting and discussing can be held up to 50 participants limit, anytime, anywhere.",
+      "specialFeature": "Special Features UMeetMe for education",
+      "detailHeader1": "Manage Participant",
+      "detailSubHeader1": "Host has participant control during the meeting.",
+      "detailHeader2": "Live Stream",
+      "detailSubHeader2": "Free and easy live streaming.",
+      "detailHeader3": "Share Youtube Videos",
+      "detailSubHeader3": "You can share and watch YouTube videos together during the meeting.",
+      "aboutHeader1": "Virtual Meeting",
+      "aboutSubHeader1": "Distance and time, that's not a big problem because you can still discuss and share information with your employees or anyone around the world at any time.",
+      "aboutHeader2": "Real-time information",
+      "aboutSubHeader2": "You can report information quickly to everyone when there is an emergency, using any device with the live streaming feature.",
+      "aboutHeader3": "Optimize time and costs",
+      "aboutSubHeader3": "Activities such as observation, recruitment, training, etc. can be done virtually, which can reduce travel costs and optimize time."
+    },
+    "eduPage": {
+      "header": "UMeetMe for Business",
+      "subHeader": "Video-conferencing with higher service. Optimizing work time by utilizing resources and hardware. Meeting and discussing can be held up to 50 participants limit, anytime, anywhere.",
+      "specialFeature": "Special Features UMeetMe for education",
+      "detailHeader1": "Whiteboard",
+      "detailSubHeader1": "Draw your subject material easier trough visuals.",
+      "detailHeader2": "Collaboration Document",
+      "detailSubHeader2": "Create your documents during online classes by collaborating with other participants. ",
+      "detailHeader3": "Attendance",
+      "detailSubHeader3": "Listing the student attendance directly using system.",
+      "aboutHeader1": "Learning With Online Classes",
+      "aboutSubHeader1": "Learning more easy with online classes will be more free and fun with unlimited duration and share screen feature, to support the learning material during online classes or other virtual activity.",
+      "aboutHeader2": "Supports LMS programs for universities",
+      "aboutSubHeader2": "We provide a collaboration API to support the effectiveness of LMS (Learning Management System) activities in Indonesia.",
+      "aboutHeader3": "Provides Virtual Learning Media",
+      "aboutSubHeader3": "To participate in supporting and developing \"Go Digital\" programs for education in Indonesia. We provide online media classes, formal and informal education for free."
+    },
+    "carousel": {
+      "headerEdu": "How to Start UMeetMe",
+      "headerBusiness": "How to Start UMeetMe",
+      "subHeader": "Here are easy ways how to start connecting with anyone.",
+      "howToStart": "How to start",
+      "step1Title": "1. Create room",
+      "step1Content": "Choose any name for your room, and type on the room",
+      "step2Title": "2. Share a Link",
+      "step2Content": "Copy the link and share it via email, chat, text, etc., to invite anyone to join",
+      "step3Title": "3. Start a Conference",
+      "step3Content": "Enjoy your video conference with others."
+    },
+    "footer1": {
+      "startUMeetMe": "Start UMeetMe now!",
+      "register": "REGISTER, IT'S FREE",
+      "header": "Video-conferencing with higher service. Optimizing work time by utilizing resources and hardware. Meeting and discussing can be held up to 50 participants limit, anytime, anywhere."
+    },
+    "homePage": {
+      "banner": {
+        "title": "<span>Unlimited</span> Video <br /> Conference Anytime, <br /> Anywhere",
+        "description": "UMeetMe is a video conferencing platform, which serve an easy, fast, and <br/> convenient digital solution for communication."
+      },
+      "descProduct": {
+        "title": "Personalize your communication <br /> with anyone.",
+        "descProductOne": {
+          "title": "Easy",
+          "desc": "UMeetMe offers video communication with your colleagues, friends, and family with ease from your own device anytime, anywhere."
+        },
+        "descProductTwo": {
+          "title": "Unlimited",
+          "desc": "UMeetMe enables you to hold unlimited communication."
+        },
+        "descProductThree": {
+          "title": "Free",
+          "desc": "UMeetMe allows you to stay in touch and be productive without having to pay fees."
+        }
+      }
+    },
+    "joinMeeting": {
+      "title": "Join Meeting",
+      "video": "Start with Video",
+      "audio": "Start with Audio"
+    }
+  }
+}

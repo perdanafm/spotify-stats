@@ -1,0 +1,212 @@
+#audio_control {
+  background: gainsboro;
+  border: none;
+  right: 24px;
+  bottom: 20%;
+  position: fixed;
+  border-radius: 50%;
+  z-index: 5;
+  opacity: 0.2;
+  height: 60px;
+  transition: all 0.4s ease-out;
+  img {
+    width: 42px;
+    height: 42px;
+  }
+}
+#audio_control:hover {
+  opacity: 0.8;
+}
+
+#template-1 {
+  background-color: #fffde7;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 64px;
+  background-position: left bottom, right bottom;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: black;
+  img {
+    object-fit: cover;
+  }
+  #body-templ-section {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+  }
+  #top-templ-section {
+    display: flex;
+    width: 100%;
+    .text-title-undangan {
+      font-family: 'Karla', sans-serif;
+      font-weight: normal;
+      font-size: 36px;
+      line-height: 49px;
+    }
+  }
+  #cerita-kami {
+    background: #ffffff;
+    box-shadow: 0px 0px 4px rgba(153, 153, 153, 0.25);
+    border-radius: 13px;
+    padding: 70px 40px 40px 40px;
+    margin-bottom: 5.625rem;
+  }
+
+  .white-box-shadow {
+    display: flex;
+    background: #ffffff;
+    box-shadow: 0px 0px 4px rgba(153, 153, 153, 0.25);
+    border-radius: 13px;
+    padding: 40px;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 3.75rem;
+  }
+  .text-bask-semi-38 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2.375rem;
+    line-height: 43px;
+    letter-spacing: -0.03em;
+    font-weight: 600;
+  }
+  .text-bask-semi-44 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 600;
+    font-size: 2.75rem;
+    line-height: 50px;
+    letter-spacing: -0.03em;
+  }
+  .text-bask-bold {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 53px;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    font-weight: bold;
+  }
+  .text-karla-normal {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+    &.cerita-kami-text {
+      color: #414141;
+      margin-bottom: 3.75rem;
+    }
+    &.acara-kami-text {
+      font-size: 20px;
+      line-height: 23px;
+      letter-spacing: -0.04em;
+      color: #414141;
+    }
+  }
+  .text-karla-bold {
+    font-family: 'Karla', sans-serif;
+    font-size: 24px;
+    line-height: 155%;
+    font-weight: bold;
+    letter-spacing: -0.04em;
+    color: #414141;
+  }
+  .text-karla-sub {
+    font-size: 1.125rem;
+    line-height: 21px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    letter-spacing: -0.04em;
+    color: #535353;
+  }
+
+  .top-image {
+    background: #c4c4c4;
+    width: 458px;
+    height: 530px;
+    animation: fadein 4s;
+    -moz-animation: fadein 4s; /* Firefox */
+    -webkit-animation: fadein 4s; /* Safari and Chrome */
+    -o-animation: fadein 4s; /* Opera */
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* For tablet : */
+    #body-templ-section {
+      padding-left: 8%;
+      padding-right: 8%;
+    }
+    #top-templ-section {
+      flex-direction: column;
+    }
+    .text-section {
+      text-align: center;
+    }
+    .top-image {
+      width: 300px;
+      height: 450px;
+      margin-bottom: 24px;
+      margin: auto;
+    }
+    .text-bask-bold {
+      font-size: 2.25rem;
+    }
+    .text-bask-semi-44 {
+      font-size: 2rem;
+    }
+    .text-karla-normal {
+      font-size: 1.125rem;
+      &.cerita-kami-text {
+        margin-bottom: 30px;
+      }
+    }
+    .white-box-shadow {
+      padding: 25px;
+      width: 100%;
+    }
+    .mt-40 {
+      margin-top: 20px;
+    }
+  }
+
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @-moz-keyframes fadein {
+    /* Firefox */
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @-webkit-keyframes fadein {
+    /* Safari and Chrome */
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @-o-keyframes fadein {
+    /* Opera */
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #template-1 {
+    background-position: -100px 400px, 350px 400px;
+  }
+}
